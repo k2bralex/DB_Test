@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AShcF/7KmwGzgrB2aTJ2vCUz2h8jnY/wf4cq+fPkKCVlG2FQOL1u0EbcSdaWFS4cf5JyBdgVm3YElG0AuytHDw==",
+  "dgSpecHash": "gBmfZBIs6yOwV1NP5wYMhuAenbs9JmpXQQdTsodk8a1SgLT/c2kwwBQZocY1XrQ7ZC418lHzPwJhHzBOO2ETwQ==",
   "success": true,
   "projectFilePath": "/Users/oleksiibrahanets/RiderProjects/DB_Test/myApp/myApp.csproj",
   "expectedPackageFiles": [
@@ -20,9 +20,7 @@
     "/Users/oleksiibrahanets/.nuget/packages/npgsql/7.0.0-rc.1/npgsql.7.0.0-rc.1.nupkg.sha512",
     "/Users/oleksiibrahanets/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.0-rc.1/npgsql.entityframeworkcore.postgresql.7.0.0-rc.1.nupkg.sha512",
     "/Users/oleksiibrahanets/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "/Users/oleksiibrahanets/.nuget/packages/microsoft.netcore.app.runtime.win-x86/6.0.7/microsoft.netcore.app.runtime.win-x86.6.0.7.nupkg.sha512",
-    "/Users/oleksiibrahanets/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x86/6.0.7/microsoft.aspnetcore.app.runtime.win-x86.6.0.7.nupkg.sha512",
-    "/Users/oleksiibrahanets/.nuget/packages/microsoft.netcore.app.host.win-x86/6.0.7/microsoft.netcore.app.host.win-x86.6.0.7.nupkg.sha512"
+    "/Users/oleksiibrahanets/.nuget/packages/microsoft.netcore.app.host.win-x64/6.0.7/microsoft.netcore.app.host.win-x64.6.0.7.nupkg.sha512"
   ],
   "logs": []
 }
