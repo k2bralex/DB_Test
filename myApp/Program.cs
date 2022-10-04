@@ -1,14 +1,7 @@
 ﻿using DB_Test.Additional_Classes;
 
 var arguments = Environment.GetCommandLineArgs();
-Console.WriteLine(arguments[0]);
-Console.WriteLine();
-Console.WriteLine();
-var argR = arguments[1..];
-foreach (var arr in argR)
-{
-    Console.Write(arr + " ");
-}
+
 switch (arguments[1])
 {
     case "1":
